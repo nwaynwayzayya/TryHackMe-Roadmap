@@ -9,7 +9,7 @@ All credit for compiling and maintaining the original list goes to the author. �
 
 | 🔐 **Category**                                  | 🔢 **Rooms** | 🔒 **Rooms Completed by Me** |
 | ------------------------------------------------ |:------------:|:---------------------------:|
-| **[Introductory Rooms](#intro-rooms)**           |     21       |                            |
+| **[Introductory Rooms](#intro-rooms)**           |     21       |              4              |
 | **[Linux Fundamentals](#linux-fundamentals)**    |      4       |                            |
 | **[Windows Fundamentals](#windows-fundamentals)**|      3       |                             |
 | **[Basic Rooms](#basics-rooms)**                 |     14       |                            |
@@ -84,13 +84,13 @@ Here are a few other labs you could consider adding:
 
 - [ ] [🕵️ TryHackMe | SDLC](https://tryhackme.com/room/sdlc)
 
-- [ ] [🕵️ TryHackMe | Welcome](https://tryhackme.com/room/hello)
+- [x] [🕵️ TryHackMe | Welcome](https://tryhackme.com/room/hello)
 
-- [ ] [🕵️ TryHackMe | How to use TryHackMe](https://tryhackme.com/room/howtousetryhackme)
+- [x] [🕵️ TryHackMe | How to use TryHackMe](https://tryhackme.com/room/howtousetryhackme)
 
-- [ ] [🕵️ TryHackMe | Tutorial](https://tryhackme.com/room/tutorial)
+- [x] [🕵️ TryHackMe | Tutorial](https://tryhackme.com/room/tutorial)
 
-- [ ] [🕵️ TryHackMe | OpenVPN](https://tryhackme.com/room/openvpn)
+- [x] [🕵️ TryHackMe | OpenVPN](https://tryhackme.com/room/openvpn)
 
 - [ ] [🕵️ TryHackMe | Learning Cyber Security](https://tryhackme.com/room/beginnerpathintro)
 
