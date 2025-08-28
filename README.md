@@ -10,7 +10,7 @@ All credit for compiling and maintaining the original list goes to the author. �
 | 🔐 **Category**                                  | 🔢 **Rooms** | 🔒 **Rooms Completed by Me** |
 | ------------------------------------------------ |:------------:|:---------------------------:|
 | **[Introductory Rooms](#intro-rooms)**           |     21       |              9              |
-| **[Linux Fundamentals](#linux-fundamentals)**    |      4       |                            |
+| **[Linux Fundamentals](#linux-fundamentals)**    |      4       |              1              |
 | **[Windows Fundamentals](#windows-fundamentals)**|      3       |                             |
 | **[Basic Rooms](#basics-rooms)**                 |     14       |                            |
 | **[Reconnaissance](#recon)**                     |     10       |                            |
@@ -37,7 +37,7 @@ All credit for compiling and maintaining the original list goes to the author. �
 | **[Insane CTF](#insane-ctf)**                    |      1       |                            |
 | **[Misc](#misc)**                                |     43       |                             |
 | **[Special Events](#special-events)**            |     12       |                            |
-| **Total Rooms:**                                 |    **= 502** |          **= 9**           |
+| **Total Rooms:**                                 |    **= 502** |          **= 10**           |
 
 ---
 
@@ -111,7 +111,7 @@ Here are a few other labs you could consider adding:
 
 - [ ] [🕵️ TryHackMe | Linux Modules](https://tryhackme.com/room/linuxmodules)
   
-- [ ] [🕵️ TryHackMe | Linux Fundamentals Part 1](https://tryhackme.com/room/linuxfundamentalspart1)
+- [x] [🕵️ TryHackMe | Linux Fundamentals Part 1](https://tryhackme.com/room/linuxfundamentalspart1)
   
 - [ ] [🕵️ TryHackMe | Linux Fundamentals Part 2](https://tryhackme.com/room/linuxfundamentalspart2)  **🚨 Attention!** Multiple users have reported that this room is **no longer free.**
  
