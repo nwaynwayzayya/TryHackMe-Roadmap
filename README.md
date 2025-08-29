@@ -9,7 +9,7 @@ All credit for compiling and maintaining the original list goes to the author. �
 
 | 🔐 **Category**                                  | 🔢 **Rooms** | 🔒 **Rooms Completed by Me** |
 | ------------------------------------------------ |:------------:|:---------------------------:|
-| **[Introductory Rooms](#intro-rooms)**           |     21       |              9              |
+| **[Introductory Rooms](#intro-rooms)**           |     21       |              10              |
 | **[Linux Fundamentals](#linux-fundamentals)**    |      4       |              1              |
 | **[Windows Fundamentals](#windows-fundamentals)**|      3       |                             |
 | **[Basic Rooms](#basics-rooms)**                 |     14       |                            |
@@ -37,7 +37,7 @@ All credit for compiling and maintaining the original list goes to the author. �
 | **[Insane CTF](#insane-ctf)**                    |      1       |                            |
 | **[Misc](#misc)**                                |     43       |                             |
 | **[Special Events](#special-events)**            |     12       |                            |
-| **Total Rooms:**                                 |    **= 502** |          **= 10**           |
+| **Total Rooms:**                                 |    **= 502** |          **= 11**           |
 
 ---
 
@@ -98,7 +98,7 @@ Here are a few other labs you could consider adding:
 
 - [x] [🕵️ TryHackMe | Introductory Researching](https://tryhackme.com/room/introtoresearch)
 
-- [ ] [🕵️ TryHackMe | Regular expressions](https://tryhackme.com/room/catregex)
+- [x] [🕵️ TryHackMe | Regular expressions](https://tryhackme.com/room/catregex)
 
 - [x] [🕵️ TryHackMe | Careers in Cyber](https://tryhackme.com/room/careersincyber)
 
