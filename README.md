@@ -23,7 +23,7 @@ All credit for compiling and maintaining the original list goes to the author. �
 | **[Web](#web)**                                  |     33       |                            |
 | **[Android](#android)**                          |      1       |                             |
 | **[Forensics](#forensics)**                      |     17       |                             |
-| **[Wifi Hacking](#wi-fi-hacking)**               |      1       |                            |
+| **[Wifi Hacking](#wi-fi-hacking)**               |      1       |              1              |
 | **[Reverse Engineering](#reverse-engineering)**  |     9       |                             |
 | **[Malware Analysis](#malware-analysis)**        |      8       |                             |
 | **[Privilege Escalation](#privesc)**             |     13       |                           |
@@ -37,7 +37,7 @@ All credit for compiling and maintaining the original list goes to the author. �
 | **[Insane CTF](#insane-ctf)**                    |      1       |                            |
 | **[Misc](#misc)**                                |     43       |                             |
 | **[Special Events](#special-events)**            |     12       |                            |
-| **Total Rooms:**                                 |    **= 502** |          **= 11**           |
+| **Total Rooms:**                                 |    **= 502** |          **= 12**           |
 
 ---
 
@@ -395,7 +395,7 @@ Here are a few other labs you could consider adding:
 
 ## Wi-Fi Hacking
 
-- [ ] [🕵️ TryHackMe | Wifi Hacking 101](https://tryhackme.com/room/wifihacking101)
+- [x] [🕵️ TryHackMe | Wifi Hacking 101](https://tryhackme.com/room/wifihacking101)
 
 ## Reverse Engineering
 
