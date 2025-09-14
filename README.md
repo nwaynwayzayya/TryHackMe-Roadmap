@@ -11,7 +11,7 @@ All credit for compiling and maintaining the original list goes to the author. �
 | ------------------------------------------------ |:------------:|:---------------------------:|
 | **[Introductory Rooms](#intro-rooms)**           |     21       |              10              |
 | **[Linux Fundamentals](#linux-fundamentals)**    |      4       |              1              |
-| **[Windows Fundamentals](#windows-fundamentals)**|      3       |              1               |
+| **[Windows Fundamentals](#windows-fundamentals)**|      3       |              2               |
 | **[Basic Rooms](#basics-rooms)**                 |     14       |                            |
 | **[Reconnaissance](#recon)**                     |     10       |                            |
 | **[Scripting](#scripting)**                      |      7       |                             |
@@ -37,7 +37,7 @@ All credit for compiling and maintaining the original list goes to the author. �
 | **[Insane CTF](#insane-ctf)**                    |      1       |                            |
 | **[Misc](#misc)**                                |     43       |                             |
 | **[Special Events](#special-events)**            |     12       |                            |
-| **Total Rooms:**                                 |    **= 502** |          **= 13**           |
+| **Total Rooms:**                                 |    **= 502** |          **= 14**           |
 
 ---
 
@@ -121,7 +121,7 @@ Here are a few other labs you could consider adding:
 
 - [x] [🕵️ TryHackMe | Windows Fundamentals 1](https://tryhackme.com/room/windowsfundamentals1xbx)
   
-- [ ] [🕵️ TryHackMe | Windows Fundamentals 2](https://tryhackme.com/room/windowsfundamentals2x0x)
+- [x] [🕵️ TryHackMe | Windows Fundamentals 2](https://tryhackme.com/room/windowsfundamentals2x0x)
   
 - [ ] [🕵️ TryHackMe | Windows Fundamentals 3](https://tryhackme.com/room/windowsfundamentals3xzx)
 
