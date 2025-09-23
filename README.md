@@ -15,7 +15,7 @@ All credit for compiling and maintaining the original list goes to the author. �
 | **[Basic Rooms](#basics-rooms)**                 |     14       |                            |
 | **[Reconnaissance](#recon)**                     |     10       |                            |
 | **[Scripting](#scripting)**                      |      7       |                             |
-| **[Networking](#networking)**                    |      7       |                            |
+| **[Networking](#networking)**                    |      7       |             1               |
 | **[Tooling](#tooling)**                          |     18       |                            |
 | **[Container Security](#container-security)**    |     3        |                              |
 | **[Cryptography & Hashes](#cryptography--hashes)**|      7       |                            |
@@ -37,7 +37,7 @@ All credit for compiling and maintaining the original list goes to the author. �
 | **[Insane CTF](#insane-ctf)**                    |      1       |                            |
 | **[Misc](#misc)**                                |     43       |                             |
 | **[Special Events](#special-events)**            |     12       |                            |
-| **Total Rooms:**                                 |    **= 502** |          **= 15**           |
+| **Total Rooms:**                                 |    **= 502** |          **= 16**           |
 
 ---
 
@@ -197,7 +197,7 @@ Here are a few other labs you could consider adding:
 
 - [ ] [🕵️ TryHackMe | Introductory Networking](https://tryhackme.com/room/introtonetworking)
 
-- [ ] [🕵️ TryHackMe | What is Networking?](https://tryhackme.com/room/whatisnetworking)
+- [x] [🕵️ TryHackMe | What is Networking?](https://tryhackme.com/room/whatisnetworking)
 
 - [ ] [🕵️ TryHackMe | Networking](https://tryhackme.com/room/bpnetworking)
 
