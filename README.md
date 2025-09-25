@@ -15,7 +15,7 @@ All credit for compiling and maintaining the original list goes to the author. �
 | **[Basic Rooms](#basics-rooms)**                 |     14       |                            |
 | **[Reconnaissance](#recon)**                     |     10       |                            |
 | **[Scripting](#scripting)**                      |      7       |                             |
-| **[Networking](#networking)**                    |      7       |             2               |
+| **[Networking](#networking)**                    |      7       |             3               |
 | **[Tooling](#tooling)**                          |     18       |                            |
 | **[Container Security](#container-security)**    |     3        |                              |
 | **[Cryptography & Hashes](#cryptography--hashes)**|      7       |                            |
@@ -37,7 +37,7 @@ All credit for compiling and maintaining the original list goes to the author. �
 | **[Insane CTF](#insane-ctf)**                    |      1       |                            |
 | **[Misc](#misc)**                                |     43       |                             |
 | **[Special Events](#special-events)**            |     12       |                            |
-| **Total Rooms:**                                 |    **= 502** |          **= 17**           |
+| **Total Rooms:**                                 |    **= 502** |          **= 18**           |
 
 ---
 
@@ -203,7 +203,7 @@ Here are a few other labs you could consider adding:
 
 - [ ] [🕵️ TryHackMe | Intro to LAN](https://tryhackme.com/room/introtolan) **🚨 Attention!** Multiple users have reported that this room is **no longer free.**
 
-- [ ] [🕵️ TryHackMe | HTTP in detail](https://tryhackme.com/room/httpindetail)
+- [x] [🕵️ TryHackMe | HTTP in detail](https://tryhackme.com/room/httpindetail)
 
 - [ ] [🕵️ TryHackMe | DNS in detail](https://tryhackme.com/room/dnsindetail)
 
