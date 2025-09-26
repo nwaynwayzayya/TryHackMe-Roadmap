@@ -12,7 +12,7 @@ All credit for compiling and maintaining the original list goes to the author. �
 | **[Introductory Rooms](#intro-rooms)**           |     21       |              10              |
 | **[Linux Fundamentals](#linux-fundamentals)**    |      4       |              1              |
 | **[Windows Fundamentals](#windows-fundamentals)**|      3       |              3               |
-| **[Basic Rooms](#basics-rooms)**                 |     14       |                            |
+| **[Basic Rooms](#basics-rooms)**                 |     14       |              1             |
 | **[Reconnaissance](#recon)**                     |     10       |                            |
 | **[Scripting](#scripting)**                      |      7       |                             |
 | **[Networking](#networking)**                    |      7       |             4               |
@@ -37,7 +37,7 @@ All credit for compiling and maintaining the original list goes to the author. �
 | **[Insane CTF](#insane-ctf)**                    |      1       |                            |
 | **[Misc](#misc)**                                |     43       |                             |
 | **[Special Events](#special-events)**            |     12       |                            |
-| **Total Rooms:**                                 |    **= 502** |          **= 19**           |
+| **Total Rooms:**                                 |    **= 502** |          **= 20**           |
 
 ---
 
@@ -139,7 +139,7 @@ Here are a few other labs you could consider adding:
 
 - [ ] [🕵️ TryHackMe | Basic Pentesting](https://tryhackme.com/room/basicpentestingjt)
 
-- [ ] [🕵️ TryHackMe | Pentesting Fundamentals](https://tryhackme.com/room/pentestingfundamentals)
+- [x] [🕵️ TryHackMe | Pentesting Fundamentals](https://tryhackme.com/room/pentestingfundamentals)
 
 - [ ] [🕵️ TryHackMe | Principles of Security](https://tryhackme.com/room/principlesofsecurity)
 
